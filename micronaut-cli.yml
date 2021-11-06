@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: pl.akulinski
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, assertj, github-workflow-azure-container-instance-graalvm, github-workflow-docker-registry, github-workflow-graal-docker-registry, graalvm, gradle, http-client, jib, jmx, junit, kotlin, kotlin-application, kotlin-extension-functions, kubernetes, log4j2, management, micrometer, micrometer-new-relic, mockito, mongo-reactive, netty-server, reactor, reactor-http-client, readme, shade, testcontainers, yaml]
